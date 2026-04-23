@@ -1,2 +1,4 @@
-Repository per Docs Italia con le linee guida di design dell'esperienza utente per i cittadini
-applicando il principio once only.
+# Esperienza dei cittadini con il _once only_
+
+Repository per Docs Italia con le raccomandazioni di design dell'esperienza utente per i cittadini
+applicando il principio _once only_.
