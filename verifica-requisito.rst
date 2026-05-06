@@ -9,8 +9,12 @@ Anche quando utilizzi l’interoperabilità per verificare requisiti di accesso 
 
    *Esempio di verifica di dati per l’accesso ad un servizio.*
 
-.. admonition:: Testo suggerito
+.. admonition:: Testo suggerito per indicare la fonte
 
-   **Modifica {Nome dato}**
+   Verifichiamo questo dato con {Nome fonte}
 
-   La modifica di questo dato vale solo per questa richiesta e non aggiorna l’informazione alla fonte. Per aggiornare il dato alla fonte, vai su {Nome fonte, con link esterno}. 
+.. admonition:: Testo suggerito per spiegazione di approfondimento
+
+   **Verifica automatica dei dati**
+
+   Comunichiamo direttamente con altri enti per verificare i requisiti necessari per questo servizio, così non devi produrre autocertificazioni. 
