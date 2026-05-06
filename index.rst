@@ -1,6 +1,6 @@
 Raccomandazioni UX per il *once only*
 ++++++++++++++++++++++++++++++++++++++
-Progettare servizi per i cittadini abilitati dall’interoperabilità  
+Progettare servizi abilitati dall’interoperabilità per i cittadini
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. include:: /banner.rst
