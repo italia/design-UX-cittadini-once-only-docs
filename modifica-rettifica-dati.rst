@@ -5,7 +5,7 @@ Quando possibile, consenti al cittadino di modificare i dati recuperati, che pot
 
 Suggerisci all’utente come rettificare alla fonte un dato non corretto: fornisci un link al servizio di rettifica o indica l’ente titolare del dato. Vai all’approfondimento: come indicare la fonte dei dati.
   
-.. figure:: images/modifica-dati.png
+.. figure:: images/modifica-dato.png
    :alt: Esempio di step di modifica di un dato precompilato
    :align: center
 
