@@ -5,11 +5,11 @@ I servizi digitali sono spesso accompagnati da una scheda descrittiva: una pagin
 
 Quando prevista, specifica quali dati verranno recuperati automaticamente, indicandone la fonte. In questo modo il cittadino saprà cosa dovrà fornire e potrà verificare i dati recuperati automaticamente ancora prima di avviare la procedura. 
 
-.. figure:: images/f-pattern.png
-   :alt: flusso di lettura dei contenuti sul web
+.. figure:: images/scheda-servizio.png
+   :alt: Esempio di scheda servizio
    :align: center
 
-   *Rappresentazione dell'F-Pattern, il flusso di lettura più comune dei contenuti sul web.*
+   *Esempio di presentazione dei dati recuperati tramite interoperabilità nella scheda servizio.*
 
 .. admonition:: Testo suggerito
 
