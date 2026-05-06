@@ -29,6 +29,12 @@ Quando l’esito della verifica è **negativo**, comunica chiaramente quale prob
 
 Non fornire canali di assistenza potrebbe precludere l’accesso al servizio.
 
+.. figure:: images/esito-verifica-requisito.png
+   :alt: Esempio di feedback dopo la verifica di dati per l’accesso ad un servizio
+   :align: center
+
+   *Esempio di feedback dopo la verifica di dati per l’accesso ad un servizio.*
+
 
 .. admonition:: Testo suggerito
    
