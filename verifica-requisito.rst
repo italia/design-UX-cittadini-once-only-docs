@@ -18,3 +18,20 @@ Anche quando utilizzi l’interoperabilità per verificare requisiti di accesso 
    **Verifica automatica dei dati**
 
    Comunichiamo direttamente con altri enti per verificare i requisiti necessari per questo servizio, così non devi produrre autocertificazioni. 
+
+
+Esito della verifica
+--------------------------
+
+L'esito della verifica può essere dato sia in sincrono che in asincrono, tramite canali di ricontatto.
+
+Quando l’esito della verifica è **negativo**, comunica chiaramente quale problema è stato riscontrato e offri all’utente canali di assistenza diretto per risolverlo. A seconda delle modalità di gestione del servizio, valuta se fornire il contatto di assistenza del tuo ente o un link all'assistenza dell'ente titolare del dato.
+
+Non fornire canali di assistenza potrebbe precludere l’accesso al servizio.
+
+
+.. admonition:: Testo suggerito
+   
+   Dopo le verifiche con {Nome fonte}, {il tuo/la tua} {Nome dato} non risulta conforme ai requisiti per richiedere {Nome servizio}.  
+
+   Se ritieni che ci sia un errore, contatta {Contatto assistenza o Nome fonte, link}. 
