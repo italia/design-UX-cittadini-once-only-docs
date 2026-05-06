@@ -1,8 +1,7 @@
 document:
-  name: Esperienza dei cittadini con il once only
+  name: Raccomandazioni UX per il *once only* 
   description: |
-    Questa documentazione è in fase di pubblicazione e sarà disponibile a breve.
-    Le raccomandazioni di UX per la progettazione di servizi abilitati dall'interoperabilità saranno presto consultabili su questa pagina.    
+    Questa documentazione raccoglie raccomandazioni per guidare gli enti nella progettazione dei servizi abilitati dall’interoperabilità.      
   tags:
     - interoperabilità
     - once only
