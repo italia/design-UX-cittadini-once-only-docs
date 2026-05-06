@@ -1,3 +1,13 @@
-Recupero automatico dei dati  
+Selezione dei dati
+===========================================
 
-Comunichiamo direttamente con altri enti per recuperare alcune informazioni necessarie per questo servizio, così non devi inserirle manualmente. Questo dato è stato fornito da {Nome fonte}. 
+Quando le API restituiscono più dati, ad esempio nel caso di più veicoli intestati alla stessa persona, consenti all’utente di selezionare quali utilizzare.  
+
+I dati richiamati tramite API potrebbero non essere completi: consenti all’utente di integrare o aggiungere elementi. 
+
+.. figure:: images/selezione-dati.png
+   :alt: Esempio di step di selezione dei dati
+   :align: center
+
+   *Esempio di step di selezione dei dati.*
+
