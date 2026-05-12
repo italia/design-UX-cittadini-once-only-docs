@@ -13,4 +13,4 @@ Quando prevista, specifica quali dati verranno recuperati automaticamente, indic
 
 .. admonition:: Testo suggerito
 
-   Per richiedere {Nome servizio} sono necessari questi dati. Quando già disponibili, li recuperiamo automaticamente da altre fonti certificate. 
+   Per richiedere {Nome servizio} sono necessari questi dati. Quando già disponibili, li recuperiamo automaticamente dalle fonti certificate. 
