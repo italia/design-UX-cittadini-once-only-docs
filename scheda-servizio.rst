@@ -1,4 +1,4 @@
-Prima della procedura: scheda di servizio
+Prima della procedura: scheda servizio
 ===========================================
 
 I servizi digitali sono spesso accompagnati da una scheda descrittiva: una pagina sul sito dell'ente che illustra i requisiti di accesso, i documenti necessari e le modalità di fruizione. 
