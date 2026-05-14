@@ -17,7 +17,7 @@ Quando possibile, permetti anche agli utenti di approfondire come funziona la ve
 
 .. admonition:: Testo suggerito per spiegazione di approfondimento
 
-   **Verifica automatica dei dati**
+   **Verifica automatica dei requisiti**
 
    Comunichiamo direttamente con altri enti per verificare i requisiti necessari per questo servizio, così non devi produrre autocertificazioni. 
 
