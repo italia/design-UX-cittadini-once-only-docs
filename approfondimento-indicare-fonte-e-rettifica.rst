@@ -34,3 +34,43 @@ Attenzione alle indicazioni che fornisci nei testi: in alcuni casi, la rettifica
 Esempi di fonti e link per la rettifica dati
 ---------------------------------------------
 
+Ecco alcuni esempi per indicare correttamente fonte e canali di rettifica.
+
+.. list-table:: Link di fonti e canali di rettifica.
+   :widths: 15 10 30 30
+   :header-rows: 1
+
+   * - Tipologia dati
+     - Ente titolare
+     - Fonte comprensibile dai cittadini
+     - Indicazioni per la rettifica
+
+   * - Anagrafici
+     - Ministero dell'Interno
+     - Anagrafe nazionale
+     - Vai su Anagrafe nazionale. Link: `https://www.anagrafenazionale.interno.it/area-cittadino/rettifica-dati<https://www.anagrafenazionale.interno.it/area-cittadino/rettifica-dati>`_ 
+
+   * - Veicoli e patente di guida
+     - Ministero delle Infrastrutture e dei Trasporti
+     - Ministero delle Infrastrutture e dei Trasporti
+     - Vai al Portale dell'automobilista. Link: `https://www.ilportaledellautomobilista.it <https://www.ilportaledellautomobilista.it>`_ 
+
+   * - ISEE 
+     - INPS 
+     - INPS
+     - Vai al Portale Unico ISEE. Link: `https://servizi2.inps.it/servizi/PortaleUnicoISEE<https://servizi2.inps.it/servizi/PortaleUnicoISEE>`_
+
+   * - Frequenza scolastica e titoli di studio
+     - Ministero dell’Istruzione e del Merito
+     - Anagrafe Nazionale dell’Istruzione (ANIST)
+     - Vai su Anagrafe Nazionale dell’Istruzione (ANIST). Link: `https://anist.istruzione.gov.it/it/area-cittadino/rettifica-dati/<https://anist.istruzione.gov.it/it/area-cittadino/rettifica-dati/>`_
+     
+   * - Titoli di studio e attestati di iscrizione per Università e istituti di formazione superiore equivalenti
+     - Ministero dell'Università e della Ricerca
+     - Anagrafe Nazionale dell’Istruzione Superiore (ANIS)
+     - Vai su Anagrafe Nazionale dell’Istruzione Superiore (ANIS). Link: `https://anis.mur.gov.it/home/servizi-per-i-cittadini/rettifica-i-tuoi-dati<https://anis.mur.gov.it/home/servizi-per-i-cittadini/rettifica-i-tuoi-dati>`_
+
+   * - Codice fiscale
+     - Ministero dell’Economia e delle finanze
+     - Agenzia delle Entrate
+     - Vai su Agenzia delle Entrate. Link: `https://www.agenziaentrate.gov.it/portale/home<https://www.agenziaentrate.gov.it/portale/home>`_
