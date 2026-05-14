@@ -17,7 +17,7 @@ Quando indichi le fonti dei dati recuperati tramite interoperabilità sul tuo se
 
 Fornire istruzioni di rettifica
 -----------------------------------
-Per indicare agli utenti a chi rivolgersi per poter modificare dati incorretti, aggiungi, se disponibile, un **link diretto a un servizio di rettifica** (come il `servizio di rettifica online dell’Anagrafe nazionale<https://www.agenziaentrate.gov.it/portale/home>`_) o a **contatti specifici**, anziché linkare a homepage o pagine generiche.
+Per indicare agli utenti a chi rivolgersi per poter modificare dati incorretti, aggiungi, se disponibile, un **link diretto a un servizio di rettifica** (come il `servizio di rettifica online dell’Anagrafe nazionale <https://www.agenziaentrate.gov.it/portale/home>`_) o a **contatti specifici**, anziché linkare a homepage o pagine generiche.
 
 Attenzione alle indicazioni che fornisci nei testi: in alcuni casi, la rettifica dei dati avviene su portali specifici che differiscono dai siti istituzionali degli enti titolati dei dati. In questi casi occorre quindi differenziare la fonte dei dati da dove posso essere modificati.
 
@@ -36,7 +36,7 @@ Esempi di fonti e link per la rettifica dati
 Ecco alcuni esempi per indicare correttamente fonte e canali di rettifica.
 
 .. list-table:: Link di fonti e canali di rettifica.
-   :widths: 15 10 30 30
+   :widths: 10 10 10 10
    :header-rows: 1
 
    * - Tipologia dati
