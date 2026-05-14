@@ -2,6 +2,8 @@ Verifica di un requisito
 ===========================================
 
 Anche quando utilizzi l’interoperabilità per verificare requisiti di accesso al servizio, ad esempio un bonus o una borsa di studio, informa il cittadino di quali dati sono recuperati automaticamente e indicane la fonte.
+
+Quando possibile, fornisci una spiegazione del processo a comparsa (ad esempio tramite tooltip, modale o accordion) : gli utenti potrebbero non aver letto attentamente il testo nell'informativa privacy e voler approfondire cosa significa.
   
 .. figure:: images/verifica-requisito.png
    :alt: Esempio di verifica di dati per l’accesso ad un servizio
