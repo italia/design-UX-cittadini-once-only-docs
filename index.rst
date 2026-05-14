@@ -28,6 +28,7 @@ La versione aggiornata (versione corrente) di questa documentazione corrisponde 
     selezione-dati.rst
     modifica-rettifica-dati.rst
     verifica-requisito.rst
+    approfondimento-indicare-fonte-e-rettifica.rst
         
 .. toctree::
     :hidden:
