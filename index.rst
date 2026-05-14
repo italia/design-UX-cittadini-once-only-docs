@@ -6,7 +6,7 @@ Raccomandazioni UX per il once only
 
 .. include:: /banner.rst
 
-Questa documentazione guida chi progetta e sviluppa servizi digitali della Pubblica Amministrazione nella gestione (lato esperienza utente, interfaccia e microtesti) del recupero automatico dei dati tramite interoperabilità, secondo il principio del *once only*. Per ogni scenario vengono forniti esempi visivi e testi suggeriti pronti all'uso.
+Questa documentazione guida chi progetta e sviluppa servizi digitali della Pubblica Amministrazione nella gestione lato esperienza utente (interfaccia e microtesti) del recupero automatico dei dati tramite interoperabilità, secondo il principio del *once only*. Per ogni scenario vengono forniti esempi visivi e testi suggeriti pronti all'uso.
 
 Il principio del *once only* (unicità dell’invio) stabilisce che cittadini e imprese non debbano fornire alla Pubblica Amministrazione dati e documenti già in suo possesso: spetta alle amministrazioni recuperarli, comunicando tra loro tramite interoperabilità.  
 
@@ -20,7 +20,7 @@ La versione aggiornata (versione corrente) di questa documentazione corrisponde 
 .. toctree::
     :maxdepth: 3
     :numbered:
-    :caption: Indice dei contenuti
+    :caption: **Indice dei contenuti**
 
     scheda-servizio.rst
     informativa-privacy.rst
