@@ -3,7 +3,7 @@ Verifica di un requisito
 
 Anche quando utilizzi l’interoperabilità per verificare requisiti di accesso al servizio, ad esempio un bonus o una borsa di studio, informa il cittadino di quali dati sono recuperati automaticamente e indicane la fonte.
 
-Quando possibile, fornisci una spiegazione del processo a comparsa (ad esempio tramite tooltip, modale o accordion) : gli utenti potrebbero non aver letto attentamente il testo nell'informativa privacy e voler approfondire cosa significa.
+Quando possibile, permetti anche agli utenti di approfondire come funziona la verifica dei requisiti, ad esempio tramite tooltip, modale o accordion: potrebbero non ricordare il testo dell'informativa privacy e voler capire come funziona la verifica automatica.
   
 .. figure:: images/verifica-requisito.png
    :alt: Esempio di verifica di dati per l’accesso ad un servizio
@@ -24,8 +24,6 @@ Quando possibile, fornisci una spiegazione del processo a comparsa (ad esempio t
 
 Esito della verifica
 --------------------------
-
-L'esito della verifica di un requisitopuò essere dato sia in sincrono che in asincrono, tramite canali di ricontatto.
 
 Quando l’esito della verifica è **negativo**, sia che venga comunicato immediatamente o successivamente tramite canali di ricontatto, comunica chiaramente quale problema è stato riscontrato e offri all’utente canali di assistenza diretto per risolverlo. A seconda delle modalità di gestione del servizio, valuta se fornire il contatto di assistenza del tuo ente o un link all'assistenza dell'ente titolare del dato.
 
