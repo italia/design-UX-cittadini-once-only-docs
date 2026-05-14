@@ -20,10 +20,6 @@ Attenzione alle indicazioni che fornisci nei testi: in alcuni casi, la rettifica
 
 .. admonition:: example
    :class: admonition-example display-page
-
-   .. code-block:: rst
-
-      .. highlights:
       
          I dati relativi all’ISEE sono gestiti da INPS e i cittadini possono visualizzarli e modificarli sul Portale Unico ISEE.
 
