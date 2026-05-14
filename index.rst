@@ -15,7 +15,7 @@ Con il decreto-legge n. 19 del 19 febbraio 2026, il principio del once only vien
 .. epigraph::
    *«Le pubbliche amministrazioni, in attuazione del principio dell’unicità dell’invio, non richiedono ai cittadini e alle imprese dati e informazioni già detenuti da un’amministrazione e assicurano la circolarità delle informazioni mediante la piattaforma di cui all’articolo 50 -ter fin dalla progettazione dei servizi […]»*  
 
-La versione aggiornata (versione corrente) di questa documentazione corrisponde alla **2026.1**. Puoi contribuire all’evoluzione di queste raccomandazioni `aprendo issue sul repository GitHub<https://github.com/italia/design-UX-cittadini-once-only-docs/issues>`.
+La versione aggiornata (versione corrente) di questa documentazione corrisponde alla **2026.1**. Puoi contribuire all’evoluzione di queste raccomandazioni `aprendo issue sul repository GitHub <https://github.com/italia/design-UX-cittadini-once-only-docs/issues>`_.
 
 .. toctree::
     :maxdepth: 3
