@@ -20,6 +20,7 @@ La versione aggiornata (versione corrente) di questa documentazione corrisponde 
 .. toctree::
     :maxdepth: 3
     :numbered:
+    :caption: Indice dei contenuti
 
     scheda-servizio.rst
     informativa-privacy.rst
