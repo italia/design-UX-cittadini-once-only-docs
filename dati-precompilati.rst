@@ -3,7 +3,7 @@ Dati precompilati
 
 Durante la procedura, segnala al cittadino quali dati sono recuperati tramite interoperabilità, indicandone la fonte (`vai all’approfondimento: come indicare la fonte dei dati <../approfondimento-indicare-fonte-e-rettifica>`_).
 
-Quando possibile, fornisci una spiegazione di approfondimento a comparsa (ad esempio tramite tooltip, modale o accordion): gli utenti potrebbero non aver letto attentamente il testo nell'informativa privacy.
+Quando possibile, permetti anche agli utenti di approfondire come funziona il recupero automatico dei dati, ad esempio tramite tooltip, modale o accordion: potrebbero non ricordare il testo dell'informativa privacy e voler capire perché alcuni dati sono già precompilati.
 
 .. figure:: images/dati-precompilati.png
    :alt: Esempio di form con dati precompilati
